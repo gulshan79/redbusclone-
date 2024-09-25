@@ -1,0 +1,148 @@
+
+
+
+.bg {
+  border: 1px solid brown;
+    width: 100vw;
+    height: 100vh;
+  background-color: white;
+ 
+    background-image: linear-gradient(to right, pink , pink);
+    background-size: 50% 70%;
+    
+    background-position: top right;
+    background-repeat: no-repeat;
+    
+  
+  
+}
+.navbar {
+
+    
+    display: flex;
+    justify-content: space-around;
+    
+    gap: 10px;
+}
+ul {
+    
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 10px;
+
+}
+li {
+    list-style: none;
+}
+.icon {
+    height: 30px;
+    width: 80px;
+    background-color: deeppink;
+    border: 1px solid palevioletred;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ol {
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+.search {
+    margin-top: 6px;
+}
+
+
+.box2 {
+    
+    display: flex;
+    justify-content: center;
+    
+    gap: 5px;
+    
+
+}
+
+.car {
+    width: 120px;
+    height: 40px;
+    border: 1px solid palevioletred;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    
+      }
+      
+
+
+
+      .box3 {
+        
+        display: flex;
+        justify-content: end;
+        margin-right: 250px;
+      }
+      .home {
+        width: 140px;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;    
+
+      }
+      .box4 {
+        margin-left: 80px;
+        font-size: large;
+      }
+      .box5 {
+        display: flex;
+        justify-content: start;
+        gap: 25px;
+        margin-left: 80px;
+
+      }
+      .apply {
+        width: 130px;
+        height: 40px;
+        border-radius: 4px;
+        background-color: deeppink;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .box6 {
+        width: 180px;
+        height: 40px;
+        border-radius: 4px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: deeppink;
+        border: 1px solid deeppink;
+      }
+   .box7 {
+    display: flex;
+    justify-content: start;
+    margin: 80px;
+    gap: 30px;
+   }
+   
+        
+        
+     
+    
+
